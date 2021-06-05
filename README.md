@@ -5,7 +5,7 @@ I'm learning React
 ### my story
 
 My intrest to the coding started when I was writing on my weblog, at the time which I was 12 years old and I'm looking for templates of HTML and CSS.
-seeing those codes made me curious waht are those thing?!
+seeing those codes made me curious waht are those thing,
 In 18 , I've found out that those codes are HTML then , I was trying to learn them,now I'm much more serious about programming and I'm beginning 
 learning c# to figure out what the basic of programming and right after that I understood that I'm intersred in web developing and I started learning js.
 
